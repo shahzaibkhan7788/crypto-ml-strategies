@@ -1,0 +1,38 @@
+[
+    {
+        "exchange": "bybit",
+        "symbol": "ETH",
+        "time_horizon": "6h",
+        "model_name": "bayesian_ridge_model",
+        "training_params": {
+            "n_iter": 700,
+            "alpha_1": 1.17e-05,
+            "alpha_2": 7.12e-05,
+            "lambda_1": 5.67e-05,
+            "lambda_2": 6.25e-05,
+            "lookahead": 3,
+            "threshold": 0.0014
+        },
+        "notes": "Rank 10 trial with pnl_sum=16.14",
+        "timestamp": "2025-08-14 02:50:52",
+        "created_at": "2025-08-13T21:50:52.829894Z"
+    },
+    {
+        "exchange": "bybit",
+        "symbol": "ETH",
+        "time_horizon": "6h",
+        "model_name": "bayesian_ridge_model",
+        "training_params": {
+            "n_iter": 700,
+            "alpha_1": 1.17e-05,
+            "alpha_2": 7.12e-05,
+            "lambda_1": 5.67e-05,
+            "lambda_2": 6.25e-05,
+            "lookahead": 3,
+            "threshold": 0.0014
+        },
+        "notes": "Rank 10 trial with pnl_sum=16.14",
+        "timestamp": "2025-08-14 02:50:52",
+        "created_at": "2025-08-13T21:50:52.829894Z"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "SOL",
+        "time_horizon": "2h",
+        "model_name": "decision_tree_classifier",
+        "training_params": {},
+        "optuna_params": {
+            "max_depth": 9,
+            "min_samples_leaf": 5,
+            "lookahead": 3,
+            "threshold": 0.0044
+        },
+        "notes": "Rank 10 trial with pnl_sum=90.35",
+        "timestamp": "2025-08-14 04:30:33",
+        "created_at": "2025-08-13T23:30:33.370487Z"
+    },
+    {
+        "symbol": "SOL",
+        "time_horizon": "2h",
+        "model_name": "decision_tree_classifier",
+        "training_params": {},
+        "optuna_params": {
+            "max_depth": 9,
+            "min_samples_leaf": 5,
+            "lookahead": 3,
+            "threshold": 0.0044
+        },
+        "notes": "Rank 10 trial with pnl_sum=90.35",
+        "timestamp": "2025-08-14 04:30:33",
+        "created_at": "2025-08-13T23:30:33.370487Z"
+    }
+]

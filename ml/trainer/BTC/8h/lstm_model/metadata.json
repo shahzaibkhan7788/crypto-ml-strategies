@@ -1,0 +1,38 @@
+[
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "8h",
+        "model_name": "lstm_model",
+        "training_params": {
+            "lookback": 70,
+            "units": 80,
+            "dropout": 0.1,
+            "epochs": 15,
+            "batch_size": 32,
+            "lookahead": 1,
+            "threshold": 0.0042
+        },
+        "notes": "Rank 1 trial with pnl_sum=18.87",
+        "timestamp": "2025-08-14 11:16:14",
+        "created_at": "2025-08-14T06:16:14.332068Z"
+    },
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "8h",
+        "model_name": "lstm_model",
+        "training_params": {
+            "lookback": 70,
+            "units": 80,
+            "dropout": 0.1,
+            "epochs": 15,
+            "batch_size": 32,
+            "lookahead": 1,
+            "threshold": 0.0042
+        },
+        "notes": "Rank 1 trial with pnl_sum=18.87",
+        "timestamp": "2025-08-14 11:16:14",
+        "created_at": "2025-08-14T06:16:14.332068Z"
+    }
+]

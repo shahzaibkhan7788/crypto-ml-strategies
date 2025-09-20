@@ -1,0 +1,38 @@
+[
+    {
+        "exchange": "bybit",
+        "symbol": "ETH",
+        "time_horizon": "8h",
+        "model_name": "gradient_boost_model",
+        "training_params": {
+            "n_estimators": 400,
+            "learning_rate": 0.27,
+            "max_depth": 10,
+            "subsample": 0.86,
+            "min_samples_split": 7,
+            "lookahead": 2,
+            "threshold": 0.0014
+        },
+        "notes": "Rank 10 trial with pnl_sum=-37.57",
+        "timestamp": "2025-08-14 03:46:48",
+        "created_at": "2025-08-13T22:46:48.080098Z"
+    },
+    {
+        "exchange": "bybit",
+        "symbol": "ETH",
+        "time_horizon": "8h",
+        "model_name": "gradient_boost_model",
+        "training_params": {
+            "n_estimators": 400,
+            "learning_rate": 0.27,
+            "max_depth": 10,
+            "subsample": 0.86,
+            "min_samples_split": 7,
+            "lookahead": 2,
+            "threshold": 0.0014
+        },
+        "notes": "Rank 10 trial with pnl_sum=-37.57",
+        "timestamp": "2025-08-14 03:46:48",
+        "created_at": "2025-08-13T22:46:48.080098Z"
+    }
+]

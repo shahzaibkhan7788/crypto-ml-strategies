@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "ETH",
+        "time_horizon": "6h",
+        "model_name": "decision_tree_classifier",
+        "training_params": {},
+        "optuna_params": {
+            "max_depth": 10,
+            "min_samples_leaf": 5,
+            "lookahead": 1,
+            "threshold": 0.0022
+        },
+        "notes": "Rank 10 trial with pnl_sum=43.17",
+        "timestamp": "2025-08-14 02:33:18",
+        "created_at": "2025-08-13T21:33:18.232017Z"
+    },
+    {
+        "symbol": "ETH",
+        "time_horizon": "6h",
+        "model_name": "decision_tree_classifier",
+        "training_params": {},
+        "optuna_params": {
+            "max_depth": 10,
+            "min_samples_leaf": 5,
+            "lookahead": 1,
+            "threshold": 0.0022
+        },
+        "notes": "Rank 10 trial with pnl_sum=43.17",
+        "timestamp": "2025-08-14 02:33:18",
+        "created_at": "2025-08-13T21:33:18.232017Z"
+    }
+]

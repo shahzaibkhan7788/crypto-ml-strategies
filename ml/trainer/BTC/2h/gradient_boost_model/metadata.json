@@ -1,0 +1,38 @@
+[
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "2h",
+        "model_name": "gradient_boost_model",
+        "training_params": {
+            "n_estimators": 100,
+            "learning_rate": 0.16,
+            "max_depth": 8,
+            "subsample": 0.72,
+            "min_samples_split": 2,
+            "lookahead": 3,
+            "threshold": 0.0077
+        },
+        "notes": "Rank 10 trial with pnl_sum=-36.45",
+        "timestamp": "2025-08-13 22:29:23",
+        "created_at": "2025-08-13T17:29:23.200862Z"
+    },
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "2h",
+        "model_name": "gradient_boost_model",
+        "training_params": {
+            "n_estimators": 100,
+            "learning_rate": 0.16,
+            "max_depth": 8,
+            "subsample": 0.72,
+            "min_samples_split": 2,
+            "lookahead": 3,
+            "threshold": 0.0077
+        },
+        "notes": "Rank 10 trial with pnl_sum=-36.45",
+        "timestamp": "2025-08-13 22:29:23",
+        "created_at": "2025-08-13T17:29:23.200862Z"
+    }
+]

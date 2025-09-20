@@ -1,0 +1,30 @@
+[
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "2h",
+        "model_name": "linear_regression_model",
+        "training_params": {
+            "fit_intercept": true,
+            "lookahead": 3,
+            "threshold": 0.0047
+        },
+        "notes": "Rank 10 trial with pnl_sum=-108.0",
+        "timestamp": "2025-08-13 16:07:53",
+        "created_at": "2025-08-13T11:07:53.915679Z"
+    },
+    {
+        "exchange": "bybit",
+        "symbol": "BTC",
+        "time_horizon": "2h",
+        "model_name": "linear_regression_model",
+        "training_params": {
+            "fit_intercept": true,
+            "lookahead": 3,
+            "threshold": 0.0047
+        },
+        "notes": "Rank 10 trial with pnl_sum=-108.0",
+        "timestamp": "2025-08-13 16:07:53",
+        "created_at": "2025-08-13T11:07:53.915679Z"
+    }
+]

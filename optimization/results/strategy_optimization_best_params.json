@@ -1,0 +1,50 @@
+{
+    "sma": {
+        "window1": 31,
+        "window2": 40
+    },
+    "adosc": {
+        "fastperiod": 2,
+        "slowperiod": 10
+    },
+    "mfi": {
+        "window": 12
+    },
+    "stoch": {
+        "fastk_period": 13,
+        "slowk_period": 2,
+        "slowk_matype": 1,
+        "slowd_period": 2,
+        "slowd_matype": 4
+    },
+    "cci": {
+        "window": 17
+    },
+    "mom": {
+        "window": 7
+    },
+    "cmo": {
+        "window": 22
+    },
+    "macdfix": {
+        "window": 13
+    },
+    "minus_di": {
+        "window": 26
+    },
+    "minus_dm": {
+        "window": 27
+    },
+    "plus_di": {
+        "window": 24
+    },
+    "rocr": {
+        "window": 8
+    },
+    "rocr100": {
+        "window": 5
+    },
+    "trix": {
+        "window": 22
+    }
+}
