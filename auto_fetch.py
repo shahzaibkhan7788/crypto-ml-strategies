@@ -9,7 +9,7 @@ conn = psycopg2.connect(
                 database="exchange",
                 user="postgres",
                 password="shah7788",
-                port=5432
+                port=5433
             )
 cursor = conn.cursor()
 
